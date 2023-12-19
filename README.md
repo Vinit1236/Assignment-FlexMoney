@@ -2,7 +2,7 @@
 
 This web app is a **Yoga Batch Registartion Form** created as part of an internship assignment at Flexmoney. Users can register for yoga classes using this application. The project is built using the MERN stack (MongoDB, Express.js, React, Node.js). Throughout the development process, I gained valuable experience in form validation, connecting the frontend to the backend, and deploying the web app online.
 
-## Project Overview
+## Project Overview and Approach
 
 1. **Frontend Development:**
    - Created a responsive admission form using HTML, CSS, Javascript and ReactJS.
@@ -31,7 +31,7 @@ This web app is a **Yoga Batch Registartion Form** created as part of an interns
 
 3. [ER Diagram](https://docs.google.com/document/d/1KKWP6PUwIVk-KnZ5259P1uI6qdN80qVe/edit?usp=sharing&ouid=113603351247231624409&rtpof=true&sd=true)
 
-## Screenshots
+## Screenshots of Web App
 ![yoga_image1](https://github.com/Vinit1236/Assignment-FlexMoney/assets/79745487/f69def7c-05a7-4f98-9577-3adbed9959ce)
 ![yoga_image2](https://github.com/Vinit1236/Assignment-FlexMoney/assets/79745487/739712df-4b53-4f18-8dac-0d95f8b1d040)
 
