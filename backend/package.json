@@ -13,7 +13,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
-    "exprss": "^0.0.1-security",
+    "express": "^0.0.1-security",
     "mongoose": "^6.8.0"
   }
 }
