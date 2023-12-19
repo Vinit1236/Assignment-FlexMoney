@@ -42,7 +42,7 @@ export default function Form() {
     if (Object.keys(error).length === 0 && submit) {
       // Assuming an API endpoint for enrollment and payment
       axios
-        .post("http://localhost:5000/", user)
+        .post("https://yogaformbackend.onrender.com/", user)
         .then((res) => {
           console.log(res.data);
           setSuccess(true);
