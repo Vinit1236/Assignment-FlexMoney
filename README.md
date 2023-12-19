@@ -19,7 +19,7 @@ This web app is a **Yoga Batch Registartion Form** created as part of an interns
    - Contact number must consist of 10 digits.
    - Fees should be exactly equal to 500.
    - User must select a slot to make the payment.
-   - For** ER diagram **and **databse schema** see the readme file of backend folder
+   - For **ER diagram** and **databse schema** see the images folder inside backend folder
 4. **Future Enhancements:**
    - Adding a payment method to accept payments through UPI or cards would make this project ready for real-world use.
 
@@ -28,6 +28,8 @@ This web app is a **Yoga Batch Registartion Form** created as part of an interns
 1. [Deployed Web App](https://yogaformvinit.onrender.com)
 
 2. [Backend API](https://yogaformbackend.onrender.com)
+
+3. [ER Diagram](https://docs.google.com/document/d/1KKWP6PUwIVk-KnZ5259P1uI6qdN80qVe/edit?usp=sharing&ouid=113603351247231624409&rtpof=true&sd=true)
 
 ## Screenshots
 ![yoga_image1](https://github.com/Vinit1236/Assignment-FlexMoney/assets/79745487/f69def7c-05a7-4f98-9577-3adbed9959ce)
