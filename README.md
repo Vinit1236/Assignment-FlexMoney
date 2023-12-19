@@ -30,4 +30,6 @@ This web app is a **Yoga Batch Registartion Form** created as part of an interns
 2. [Backend API](https://yogaformbackend.onrender.com)
 
 ## Screenshots
-![yoga_image](https://github.com/Vinit1236/Assignment-FlexMoney/assets/79745487/f69def7c-05a7-4f98-9577-3adbed9959ce)
+![yoga_image1](https://github.com/Vinit1236/Assignment-FlexMoney/assets/79745487/f69def7c-05a7-4f98-9577-3adbed9959ce)
+![yoga_image2](https://github.com/Vinit1236/Assignment-FlexMoney/assets/79745487/739712df-4b53-4f18-8dac-0d95f8b1d040)
+
