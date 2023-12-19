@@ -19,7 +19,7 @@ This web app is a **Yoga Batch Registartion Form** created as part of an interns
    - Contact number must consist of 10 digits.
    - Fees should be exactly equal to 500.
    - User must select a slot to make the payment.
-
+   - For** ER diagram **and **databse schema** see the readme file of backend folder
 4. **Future Enhancements:**
    - Adding a payment method to accept payments through UPI or cards would make this project ready for real-world use.
 
